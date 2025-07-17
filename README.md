@@ -4,6 +4,15 @@
 
 
 ![🖼️ Palert Screenshot](./assets/images/palertcover.png)
+
+<div align="center">
+
+**Currently available for Windows.** _(Linux & macOS support coming soon!)_
+
+[![Downloads](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/HemantKArya/palert/releases/latest)
+
+</div>
+
 <div align="center">
   <img src="./assets/images/scr1.png" width="320"/>
   <img src="./assets/images/scr6.png" width="320"/>
@@ -25,6 +34,16 @@
 | 🔒 **Local & Private**     | All your data is stored securely on your device using SQLite.               |
 | 🖥️ **Headless Engine**     | Choose your preferred browser (Chrome, Firefox) for reliable data scraping. |
 | ⚡ **Fast & Efficient**    | Built with Rust and Flutter for a native, smooth, and fast experience.      |
+
+---
+
+## 💻 Platform Support
+
+| Platform | Status |
+| :--- | :---: |
+| **Windows** | ✅ Available |
+| **Linux** | 🐧 Coming Soon |
+| **macOS** | 🍎 Coming Soon |
 
 ---
 
